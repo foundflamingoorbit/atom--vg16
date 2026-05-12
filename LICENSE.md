@@ -1,4 +1,4 @@
-# 
+# premium Atom for PC | Atom for Windows Addon | search-and-replace + linting is the best Atom for PC | Atom for Windows addon, featuring search-and-replace and linting. Powerful,
 
 
 
